@@ -17,29 +17,29 @@ I, Andy Berke, Mayor of the City of Chattanooga, Tennessee, by virtue of the exe
 
 3.  Employee responsibilities. Each employee of the City of Chattanooga shall avoid any action, whether or not specifically prohibited by this order or the Code of Ethics, which might result in or create the appearance of:
 
-    (a) using a public office for private gain;  
-    (b)	preferential treatment to any person in contradiction with the best interests of the City;  
-	(c)	impeding government efficiency or economy; 
-	(d)	failing to maintain appropriate independence or impartiality; or  
-	(e)	affecting adversely the confidence of the public in the integrity of the City of Chattanooga.  
+    1. using a public office for private gain;
+    2.	preferential treatment to any person in contradiction with the best interests of the City;
+	3.	impeding government efficiency or economy;
+	4.	failing to maintain appropriate independence or impartiality; or
+	5.	affecting adversely the confidence of the public in the integrity of the City of Chattanooga.
 
 4. Standards of Conduct.  Employees of the City of Chattanooga shall be guided by the provisions set out in the Code of Ethics for City Employees found in Section 2-750 et seq. of the City Code, when determining appropriate standards of conduct.
 
 5.  Duty to Report.  It is the duty of every employee of the City to report, directly and without delay, to their supervisor, Chief Ethics Officer, or City Auditor any and all information concerning conduct which they know or should reasonably know to involve corrupt or other criminal activity,
 
-	(a)	By an official or employee, which concerns his or office or employment; or  
-	(b)	By persons dealing with the City, which concerns their dealings with the City.  
+	1.	By an official or employee, which concerns his or office or employment; or  
+	2.	By persons dealing with the City, which concerns their dealings with the City.  
 	
 	The knowing failure of the any official or employee to report as required above shall subject the official or employee to disciplinary action.  For purposes of this Order, a report made to the ethics hotline shall be considered a report to the City Auditor.
 
 6.  Ethics Pledge.
 
-	(a)	The following persons shall comply with the requirements of this section:
-		(1) Any person who  
-			(i) serves as an employee in the Office of the Mayor, or  
-			(ii) any 	Administrator or Director reporting to the Mayor; and  
-		(2)  Any person who is appointed by the Mayor to a statutory board, commission, authority, or agency on or after February 4, 2014.  
-	(b)	As a condition of employment or appointment, any person meeting the requirements of Section 6(a) of this Order shall sign, and upon signing shall be contractually committed to, the following pledge: 	  
+	1.	The following persons shall comply with the requirements of this section:
+		1. Any person who  
+			1. serves as an employee in the Office of the Mayor, or  
+			2. any 	Administrator or Director reporting to the Mayor; and  
+		2.  Any person who is appointed by the Mayor to a statutory board, commission, authority, or agency on or after February 4, 2014.  
+	2.	As a condition of employment or appointment, any person meeting the requirements of Section 6(a) of this Order shall sign, and upon signing shall be contractually committed to, the following pledge: 	  
 
 	"As a condition, and in consideration, of my employment or appointment by the City of Chattanooga in a position of the public trust, I hereby acknowledge and agree to abide by the City of Chattanooga's Code of Ethics as set forth in City Code Section 2-750 et seq. which I understand is binding on me.  I understand that the terms of this pledge are in addition to any statutory or other legal restrictions applicable to me by my government service."
 
